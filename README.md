@@ -1,2 +1,3 @@
 # triviaAPIreactjs
-test 
+
+ReactJS test corTrivia API communication

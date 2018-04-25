@@ -1,3 +1,3 @@
 # triviaAPIreactjs
 
-ReactJS test corTrivia API communication
+ReactJS test for Trivia API communication
